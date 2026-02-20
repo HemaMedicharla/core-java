@@ -21,7 +21,6 @@ public class Example1 {
 		name="madhu";
 		obj1.age=19;
 		obj1.printData();
-		obj2.printData();
 	}
 
 }
